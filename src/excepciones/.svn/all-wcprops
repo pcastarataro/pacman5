@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/svn/!svn/ver/195/trunk/pacman5/src/excepciones
+END
+PosicionFueraDeRangoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/195/trunk/pacman5/src/excepciones/PosicionFueraDeRangoException.java
+END
+ModuloDeVelocidadInvalidoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/195/trunk/pacman5/src/excepciones/ModuloDeVelocidadInvalidoException.java
+END
+NoHayPacmanException.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/195/trunk/pacman5/src/excepciones/NoHayPacmanException.java
+END
+NoExistePosibleMovimientoException.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/195/trunk/pacman5/src/excepciones/NoExistePosibleMovimientoException.java
+END

@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/216/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias
+END
+SalirDeCasa.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/174/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/SalirDeCasa.java
+END
+ControladoPorElUsuario.java
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/svn/!svn/ver/216/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/ControladoPorElUsuario.java
+END
+Escapar.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/174/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/Escapar.java
+END
+Cazar.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/174/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/Cazar.java
+END
+Embozcar.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/195/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/Embozcar.java
+END
+QuedarseEnCasa.java
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/!svn/ver/174/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/QuedarseEnCasa.java
+END
+VolverACasa.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/216/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/VolverACasa.java
+END
+AndarPorAhi.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/174/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/AndarPorAhi.java
+END
+Estrategia.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/195/trunk/pacman5/src/ModeloDeDominio/Personajes/Estrategias/Estrategia.java
+END

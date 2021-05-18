@@ -1,0 +1,389 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/69/trunk/pacman5/doc/ModeloDeDominio
+END
+Manzana.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Manzana.html
+END
+Comestible.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/69/trunk/pacman5/doc/ModeloDeDominio/Comestible.html
+END
+AndarPorAhi.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/AndarPorAhi.html
+END
+Estrategia.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Estrategia.html
+END
+Velocidad.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Velocidad.html
+END
+ElementoEstatico.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/ElementoEstatico.html
+END
+JuegoConcreto.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/JuegoConcreto.html
+END
+Juego.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Juego.html
+END
+Cereza.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Cereza.html
+END
+CazadorYEmboscador.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/CazadorYEmboscador.html
+END
+PacManPersiguenFantasmitas.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/PacManPersiguenFantasmitas.html
+END
+IteradorDeFantasmitas.html
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/IteradorDeFantasmitas.html
+END
+Escapar.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Escapar.html
+END
+Fruta.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Fruta.html
+END
+FantasmitaConcreto.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/FantasmitaConcreto.html
+END
+IndecisoPerseguido.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/IndecisoPerseguido.html
+END
+Fantasmita.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Fantasmita.html
+END
+IndecisoComido.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/IndecisoComido.html
+END
+Comedor.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Comedor.html
+END
+package-tree.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/69/trunk/pacman5/doc/ModeloDeDominio/package-tree.html
+END
+Pacman.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Pacman.html
+END
+Direccion.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Direccion.html
+END
+PosicionConcreta.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/PosicionConcreta.html
+END
+Pasillo.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Pasillo.html
+END
+Celda.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Celda.html
+END
+Transitable.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Transitable.html
+END
+VelocidadConcreta.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/VelocidadConcreta.html
+END
+Banana.html
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Banana.html
+END
+Cazador.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Cazador.html
+END
+package-use.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/69/trunk/pacman5/doc/ModeloDeDominio/package-use.html
+END
+package-summary.html
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/!svn/ver/69/trunk/pacman5/doc/ModeloDeDominio/package-summary.html
+END
+Pared.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Pared.html
+END
+EstadoDelJuego.html
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/EstadoDelJuego.html
+END
+CazadorYEmboscadorPerseguido.html
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/CazadorYEmboscadorPerseguido.html
+END
+VolverACasa.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/VolverACasa.html
+END
+CazadorYEmboscadorComido.html
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/CazadorYEmboscadorComido.html
+END
+Pastilla.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Pastilla.html
+END
+ControladoPorElUsuario.html
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/ControladoPorElUsuario.html
+END
+ListaDePersonajes.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/ListaDePersonajes.html
+END
+Laberinto.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Laberinto.html
+END
+PastillaEspecial.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/PastillaEspecial.html
+END
+EditorDeLaberintos.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/EditorDeLaberintos.html
+END
+Personaje.html
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Personaje.html
+END
+CeldaConcreta.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/CeldaConcreta.html
+END
+ILaberinto.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/ILaberinto.html
+END
+ModuloDeVelocidadInvalidoException.html
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/ModuloDeVelocidadInvalidoException.html
+END
+IListaDePersonajes.html
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/IListaDePersonajes.html
+END
+Movible.html
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Movible.html
+END
+Indeciso.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Indeciso.html
+END
+Cazar.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Cazar.html
+END
+Embozcar.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Embozcar.html
+END
+EmboscadorPerseguido.html
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/EmboscadorPerseguido.html
+END
+Perseguible.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Perseguible.html
+END
+Posicionable.html
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Posicionable.html
+END
+EmboscadorComido.html
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/EmboscadorComido.html
+END
+CazadorPerseguido.html
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/CazadorPerseguido.html
+END
+Melon.html
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Melon.html
+END
+FantasmitasPersiguenPacMan.html
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/FantasmitasPersiguenPacMan.html
+END
+EstadoDelFantasmita.html
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/EstadoDelFantasmita.html
+END
+Emboscador.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Emboscador.html
+END
+CazadorComido.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/CazadorComido.html
+END
+Constantes.html
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Constantes.html
+END
+package-frame.html
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/!svn/ver/69/trunk/pacman5/doc/ModeloDeDominio/package-frame.html
+END
+Posicion.html
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/!svn/ver/15/trunk/pacman5/doc/ModeloDeDominio/Posicion.html
+END

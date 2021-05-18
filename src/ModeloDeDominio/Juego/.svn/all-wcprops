@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/svn/!svn/ver/216/trunk/pacman5/src/ModeloDeDominio/Juego
+END
+JuegoConcreto.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/216/trunk/pacman5/src/ModeloDeDominio/Juego/JuegoConcreto.java
+END
+Transitable.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/!svn/ver/86/trunk/pacman5/src/ModeloDeDominio/Juego/Transitable.java
+END
+Juego.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/86/trunk/pacman5/src/ModeloDeDominio/Juego/Juego.java
+END
+FantasmitasPersiguenPacMan.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/86/trunk/pacman5/src/ModeloDeDominio/Juego/FantasmitasPersiguenPacMan.java
+END
+FabricaDeJuegos.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/207/trunk/pacman5/src/ModeloDeDominio/Juego/FabricaDeJuegos.java
+END
+IteradorDeFantasmitas.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/86/trunk/pacman5/src/ModeloDeDominio/Juego/IteradorDeFantasmitas.java
+END
+EstadoDelJuego.java
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/!svn/ver/86/trunk/pacman5/src/ModeloDeDominio/Juego/EstadoDelJuego.java
+END
+PacManPersigueFantasmitas.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/125/trunk/pacman5/src/ModeloDeDominio/Juego/PacManPersigueFantasmitas.java
+END
+ListaDePersonajesConcreta.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/195/trunk/pacman5/src/ModeloDeDominio/Juego/ListaDePersonajesConcreta.java
+END
+ListaDePersonajes.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/145/trunk/pacman5/src/ModeloDeDominio/Juego/ListaDePersonajes.java
+END
