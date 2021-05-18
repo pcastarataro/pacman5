@@ -1,52 +1,0 @@
-10
-
-dir
-220
-http://pacman5.googlecode.com/svn/trunk/pacman5/src
-http://pacman5.googlecode.com/svn
-
-
-
-2009-12-18T02:04:36.151336Z
-218
-pablocastarataro@gmail.com
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-a7361f42-cfd4-11de-9889-db2f8e67c15c
-
-pruebas
-dir
-
-Audio
-dir
-
-Principal
-dir
-
-ar
-dir
-
-excepciones
-dir
-
-Vista
-dir
-
-ModeloDeDominio
-dir
-
-sandbox
-dir
-
